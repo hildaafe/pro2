@@ -1,0 +1,4 @@
+python-3.8.10
+otree>=5.0.0a24
+psycopg2>=2.8.4
+sentry-sdk==0.7.9
